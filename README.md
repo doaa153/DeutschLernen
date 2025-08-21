@@ -24,4 +24,12 @@ The app covers categories like **Numbers, Food & Drinks, Family Members, Colors,
 -  **Clean & Modular Design** (reusable widgets, consistent UI).
 -  **Cross-Platform** (works on Android & iOS).
 
+---
+
+## Screenshots
+![Home Screen](screenshots/home_screen.png)
+![Animals Screen](screenshots/animals_screen.png)
+![Quiz Screen](screenshots/quiz_screen.png)
+![Correct Answer](screenshots/correct.jpeg)
+![Incorrect Answer](screenshots/incorrect.jpeg)
 
